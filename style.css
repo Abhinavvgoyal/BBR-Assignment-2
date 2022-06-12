@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    padding: 0;
+}
+
+.container{
+    background-color: rgb(7, 39, 59);
+    border: 5px solid rgb(172, 189, 232);
+    padding: 3rem;
+}
+
+.wrapper-instance{
+    background-color: rgb(214, 237, 248);
+    padding: 1rem 0.5rem;
+    margin:1rem 0;
+}
+.inner-box{
+    display: flex;
+    gap: 5rem;
+}
